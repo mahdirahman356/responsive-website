@@ -110,8 +110,15 @@ img{
         justify-content: space-evenly;
         margin-bottom: 0px;
     }
+    h3{
+        font-size: 15px;
+    }
+    ul li{
+      font-size: 0.4em;
+    }
     ul{
-        gap: 15px;
+        font-size: 5px;
+        gap: 5px;
         margin-top: 7px;
     }
     section{
